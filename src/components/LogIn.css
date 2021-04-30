@@ -1,0 +1,38 @@
+.form-label {
+    font-size: 18px;
+}
+
+.form-control {
+    padding: 7px;
+    margin-left: 10px;
+    margin-top: 10px;
+}
+
+.submit-btn {
+    margin-top: 20px;
+    background: #3DA274;
+    text-align: center;
+    border-radius: 10px;
+    border-color: transparent;
+    width: 18%;
+    padding: 2%;
+    cursor: pointer;
+    margin-bottom: 10px;
+   
+}
+
+.submit-font {
+    color: white;
+    font-size: 15px;
+    margin: auto
+}
+
+.contain-Pass {
+    margin-left: 32px;
+}
+
+.container-Login {
+    background-color: white;
+    width: 30%;
+    margin: auto;
+}

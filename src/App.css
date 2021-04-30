@@ -1,0 +1,18 @@
+
+
+.Check-Post {
+   background-color: #ADA09D;
+   text-align: center;
+    border-radius: 10px;
+    border-color: transparent;
+    width: 14%;
+    font-size: 17px;
+    
+}
+
+.check-font {
+  color:white;
+  cursor: pointer;
+  font-size: 15px;
+}
+

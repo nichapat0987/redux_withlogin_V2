@@ -1,0 +1,10 @@
+.post {
+    display: flex;
+    flex-direction: row;
+    margin: auto;
+   justify-content: center;
+}
+
+.post_last {
+    padding-left: 7px;
+}

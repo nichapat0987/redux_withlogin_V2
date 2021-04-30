@@ -1,0 +1,13 @@
+
+.logout-btn {
+    background: #E76343;
+    text-align: center;
+    border-radius: 10px;
+    border-color: transparent;
+    width: 5%;
+    cursor: pointer;
+}
+
+.logout-text {
+    color: white;
+}

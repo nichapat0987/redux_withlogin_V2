@@ -1,0 +1,37 @@
+.body-Post {
+    text-align: center;
+}
+
+.fill-container {
+    width: 300px;
+    height: 200px;
+    background: white;
+    margin:auto;
+ 
+}
+
+.OKbutton {
+    background: #ADA09D;
+    text-align: center;
+    display: flex;
+    margin: auto;
+    border-radius: 20px;
+    border-color: transparent;
+    width: 20%;
+    cursor: pointer;
+}
+
+
+.textOK {
+
+    color: white;
+    margin: auto;
+}
+
+.placeh{
+    padding: 8px;
+    border-radius: 10px;
+    border-color: #ADA09D;
+    box-sizing: border-box;
+    
+}
